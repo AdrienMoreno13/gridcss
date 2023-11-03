@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+ul {
+  display:flex;  
+  justify-content: center;
+}
+
+li {
+    margin-right: 20px;
+}
+
+.article {
+    display:grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    margin: 10px;
+}
+
+
